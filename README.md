@@ -27,6 +27,10 @@ Click the image to open the Sprint 1 board in ClickUp.
 
 [Open the Sprint 1 board directly](https://sharing.clickup.com/9012594332/b/h/6-901223229977-2/69cccfa8c3f8e96)
 
+## Sprint 2
+
+[Open the Sprint 2 board in ClickUp](https://sharing.clickup.com/9012594332/b/h/6-901223231696-2/b7998b7bc2e21f3)
+
 ## Calculator operations
 
 The `Calculator` class provides:
