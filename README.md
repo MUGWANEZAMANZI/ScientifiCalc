@@ -8,6 +8,8 @@ Sprint 1 focuses on the core calculator functionality:
 
 - Basic arithmetic operations
 - Power and square-root operations
+- Power-of-two operation
+- Console logging for operations and errors
 - Initial JUnit 5 unit test suite
 - Maven-based CI/CD test execution
 
@@ -34,9 +36,11 @@ The `Calculator` class provides:
 - `multiply`
 - `divide`
 - `power`
+- `powerOfTwo`
 - `squareRoot`
 
 Division by zero and square roots of negative numbers are rejected with clear exceptions.
+Successful operations and calculator errors are logged to the console using Java's built-in logging.
 
 ## Running the tests
 

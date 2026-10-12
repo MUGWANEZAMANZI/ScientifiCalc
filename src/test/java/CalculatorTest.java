@@ -26,6 +26,11 @@ class CalculatorTest {
     }
 
     @Test
+    void calculatesPowerOfTwo() {
+        assertEquals(49.0, calculator.powerOfTwo(7.0));
+    }
+
+    @Test
     void calculatesSquareRoot() {
         assertEquals(3.0, calculator.squareRoot(9.0));
         assertEquals(0.0, calculator.squareRoot(0.0));
